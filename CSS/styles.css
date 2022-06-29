@@ -12,6 +12,11 @@ body {
   padding: 0.7rem 5rem;
   background-color: #bde6f1;
 }
+
+.brand-logo {
+  width: 50%;
+}
+
 .nav-item {
   font-family: "Azeret Mono", monospace;
   text-transform: uppercase;
@@ -363,6 +368,9 @@ hr {
   .instagram {
     font-size: 1.5rem;
   }
+  .brand-logo-1 {
+    text-align: center;
+  }
 }
 
 @media (max-width: 768px) {
@@ -417,6 +425,10 @@ hr {
 
   .instagram {
     font-size: 1.5rem;
+  }
+  
+  .brand-logo-1 {
+    text-align: center;
   }
 }
 
